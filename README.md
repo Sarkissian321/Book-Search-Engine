@@ -2,7 +2,6 @@
 
 ## description
 Deployed pgae: https://damp-cove-66674-fdcfa06c6fba.herokuapp.com/
-Github Repo: https://github.com/Sarkissian321/Book-Search-Engine
 ```md
 This website is a book search engine that offers various functionalities for both guests and registered users. Upon visiting the site, users are greeted with a simple menu offering options to "Search for Books" and "Login/Signup", along with an input field for searching books and a submit button.
 
