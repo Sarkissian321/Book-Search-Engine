@@ -9,6 +9,8 @@ For unregistered or logged-out users, searching for books returns a list of resu
 Once registered and logged in, users gain additional features. The menu changes to include "Search for Books", "View Saved Books", and "Logout". Logged-in users can save books to their account for future reference. Each book in the search results includes a "Save" button for this purpose. The "View Saved Books" option displays all saved books, each with the option to "Remove" it from the account.
 
 Logging out returns the user to the default view, with options to search for books or login/signup, ensuring a seamless and functional experience for both guests and registered users, with enhanced features for those who create an account.
+Deployed page: https://damp-cove-66674-fdcfa06c6fba.herokuapp.com/
+GitHub Repo: https://github.com/Sarkissian321/Book-Search-Engine
 ```
 
 
